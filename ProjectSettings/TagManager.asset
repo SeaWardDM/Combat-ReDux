@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Tank Body
+  - Tank Treads
+  - Tank Barrel
+  - Tank Turret
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Home Blockades
+  - Battlefield Blocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tank Body
+    uniqueID: 3095063223
+    locked: 0
+  - name: Tank Treads
+    uniqueID: 3813317807
+    locked: 0
+  - name: Tank Barrel
+    uniqueID: 1962300589
+    locked: 0
+  - name: Tank Turret
+    uniqueID: 3257881597
+    locked: 0
